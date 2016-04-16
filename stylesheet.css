@@ -1,0 +1,16 @@
+#race{
+float: left;
+padding: 10px;
+}
+header{
+text-align: center;
+text-transform: uppercase;
+}
+figure{
+height: 283px;
+width: 250px;
+overflow: hidden;
+margin-left: 600px;
+}
+button{
+}
